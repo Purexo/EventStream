@@ -1,0 +1,5 @@
+{
+    "targets": [{ "extname": ".cjs" }],
+    "projects": ["tsconfig.cjs.json"]
+  }
+  
